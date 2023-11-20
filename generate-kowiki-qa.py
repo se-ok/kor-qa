@@ -1,4 +1,4 @@
-'''Generated Korean Q&A from Wikipedia.
+'''Generate Korean Q&A from Wikipedia via OpenAI ChatCompletion API.
 
 Parsed plain text files are from wikiextractor.
 '''
